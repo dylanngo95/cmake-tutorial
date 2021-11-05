@@ -15,4 +15,5 @@ cmake --build .
 ## Config variable environment
 ```bash
 cmake . -D[Variable Name]=[Value]
+example: cmake . -DUSE_MYMATH=ON
 ```
