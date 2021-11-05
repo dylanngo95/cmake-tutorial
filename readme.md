@@ -3,7 +3,7 @@
 * Make sure you have a CMakeLists.txt
 * Make sure you have installed cmake on your local workstation.
 
-## Install Cmake
+## Install CMake environment
 ```bash
 cmake build .
 ```
