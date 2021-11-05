@@ -1,6 +1,5 @@
 #include <iostream>
-#include <cstdlib>
-#include <math.h>
+#include <cmath>
 #include "TutorialConfig.h"
 
 #ifdef USE_MYMATH
