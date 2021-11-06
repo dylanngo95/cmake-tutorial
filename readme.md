@@ -23,3 +23,8 @@ example: cmake . -DUSE_MYMATH=ON
 ```bash
 cmake --install . --prefix "/home/myuser/installdir"
 ```
+
+## Run test case
+```bash
+ctest -C Debug -VV
+```
