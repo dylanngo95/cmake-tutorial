@@ -17,3 +17,9 @@ cmake --build .
 cmake . -D[Variable Name]=[Value]
 example: cmake . -DUSE_MYMATH=ON
 ```
+
+## Install binary file to local
+
+```bash
+cmake --install . --prefix "/home/myuser/installdir"
+```
