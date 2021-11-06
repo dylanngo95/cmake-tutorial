@@ -7,9 +7,15 @@
 ```bash
 cmake build .
 ```
+
 ## Build project
 ```bash
 cmake --build .
+```
+
+## Run application
+```bash
+./Tutorial 25
 ```
 
 ## Config variable environment
